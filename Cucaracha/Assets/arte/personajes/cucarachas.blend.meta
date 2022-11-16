@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 78f701c244c27204a88d3396bc858af6
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Armature
+  - first:
+      1: 100002
+    second: base pata 2-L
+  - first:
+      1: 100004
+    second: base pata 2-R
+  - first:
+      1: 100006
+    second: base pata 3.L
+  - first:
+      1: 100008
+    second: base pata 3.R
+  - first:
+      1: 100010
+    second: Bone
+  - first:
+      1: 100012
+    second: Bone.002
+  - first:
+      1: 100014
+    second: Bone.003
+  - first:
+      1: 100016
+    second: Bone.003_end
+  - first:
+      1: 100018
+    second: Bone.004
+  - first:
+      1: 100020
+    second: Bone.005
+  - first:
+      1: 100022
+    second: Camera
+  - first:
+      1: 100024
+    second: 'case Cucaracha '
+  - first:
+      1: 100026
+    second: Cube
+  - first:
+      1: 100028
+    second: //RootNode
+  - first:
+      1: 100030
+    second: cxabeza
+  - first:
+      1: 100032
+    second: cxabeza_end
+  - first:
+      1: 100034
+    second: 'L. base antenna '
+  - first:
+      1: 100036
+    second: L.antena
+  - first:
+      1: 100038
+    second: L.antena.001
+  - first:
+      1: 100040
+    second: L.antena.002
+  - first:
+      1: 100042
+    second: L.antena.003
+  - first:
+      1: 100044
+    second: L.antena.004
+  - first:
+      1: 100046
+    second: L.antena.005
+  - first:
+      1: 100048
+    second: L.antena.006
+  - first:
+      1: 100050
+    second: L.antena.007
+  - first:
+      1: 100052
+    second: L.antena.008
+  - first:
+      1: 100054
+    second: L.antena.009
+  - first:
+      1: 100056
+    second: L.antena.010
+  - first:
+      1: 100058
+    second: L.antena.011
+  - first:
+      1: 100060
+    second: L.antena.012
+  - first:
+      1: 100062
+    second: L.antena.013
+  - first:
+      1: 100064
+    second: L.antena.014
+  - first:
+      1: 100066
+    second: L.antena.014_end
+  - first:
+      1: 100068
+    second: L.Base pata 1
+  - first:
+      1: 100070
+    second: Light
+  - first:
+      1: 100072
+    second: pata 1 .L
+  - first:
+      1: 100074
+    second: pata 1 .R
+  - first:
+      1: 100076
+    second: pata 1.001-L
+  - first:
+      1: 100078
+    second: pata 1.001-R
+  - first:
+      1: 100080
+    second: pata 1.002-L
+  - first:
+      1: 100082
+    second: pata 1.002-R
+  - first:
+      1: 100084
+    second: pata 1.003-L
+  - first:
+      1: 100086
+    second: pata 1.003-L_end
+  - first:
+      1: 100088
+    second: pata 1.003-R
+  - first:
+      1: 100090
+    second: pata 1.003-R_end
+  - first:
+      1: 100092
+    second: pata 2-L
+  - first:
+      1: 100094
+    second: pata 2-R
+  - first:
+      1: 100096
+    second: pata 2.001-L
+  - first:
+      1: 100098
+    second: pata 2.001-R
+  - first:
+      1: 100100
+    second: pata 2.002-L
+  - first:
+      1: 100102
+    second: pata 2.002-R
+  - first:
+      1: 100104
+    second: pata 2.003-L
+  - first:
+      1: 100106
+    second: pata 2.003-L_end
+  - first:
+      1: 100108
+    second: pata 2.003-R
+  - first:
+      1: 100110
+    second: pata 2.003-R_end
+  - first:
+      1: 100112
+    second: pata 3.001.L
+  - first:
+      1: 100114
+    second: pata 3.001.R
+  - first:
+      1: 100116
+    second: pata 3.002.L
+  - first:
+      1: 100118
+    second: pata 3.002.R
+  - first:
+      1: 100120
+    second: pata 3.003.L
+  - first:
+      1: 100122
+    second: pata 3.003.L_end
+  - first:
+      1: 100124
+    second: pata 3.003.R
+  - first:
+      1: 100126
+    second: pata 3.003.R_end
+  - first:
+      1: 100128
+    second: pata 3.L
+  - first:
+      1: 100130
+    second: pata 3.R
+  - first:
+      1: 100132
+    second: 'R. base antenna '
+  - first:
+      1: 100134
+    second: R.antena
+  - first:
+      1: 100136
+    second: R.antena.001
+  - first:
+      1: 100138
+    second: R.antena.002
+  - first:
+      1: 100140
+    second: R.antena.003
+  - first:
+      1: 100142
+    second: R.antena.004
+  - first:
+      1: 100144
+    second: R.antena.005
+  - first:
+      1: 100146
+    second: R.antena.006
+  - first:
+      1: 100148
+    second: R.antena.007
+  - first:
+      1: 100150
+    second: R.antena.008
+  - first:
+      1: 100152
+    second: R.antena.009
+  - first:
+      1: 100154
+    second: R.antena.010
+  - first:
+      1: 100156
+    second: R.antena.011
+  - first:
+      1: 100158
+    second: R.antena.012
+  - first:
+      1: 100160
+    second: R.antena.013
+  - first:
+      1: 100162
+    second: R.antena.014
+  - first:
+      1: 100164
+    second: R.antena.014_end
+  - first:
+      1: 100166
+    second: R.Base pata 1
+  - first:
+      4: 400000
+    second: Armature
+  - first:
+      4: 400002
+    second: base pata 2-L
+  - first:
+      4: 400004
+    second: base pata 2-R
+  - first:
+      4: 400006
+    second: base pata 3.L
+  - first:
+      4: 400008
+    second: base pata 3.R
+  - first:
+      4: 400010
+    second: Bone
+  - first:
+      4: 400012
+    second: Bone.002
+  - first:
+      4: 400014
+    second: Bone.003
+  - first:
+      4: 400016
+    second: Bone.003_end
+  - first:
+      4: 400018
+    second: Bone.004
+  - first:
+      4: 400020
+    second: Bone.005
+  - first:
+      4: 400022
+    second: Camera
+  - first:
+      4: 400024
+    second: 'case Cucaracha '
+  - first:
+      4: 400026
+    second: Cube
+  - first:
+      4: 400028
+    second: //RootNode
+  - first:
+      4: 400030
+    second: cxabeza
+  - first:
+      4: 400032
+    second: cxabeza_end
+  - first:
+      4: 400034
+    second: 'L. base antenna '
+  - first:
+      4: 400036
+    second: L.antena
+  - first:
+      4: 400038
+    second: L.antena.001
+  - first:
+      4: 400040
+    second: L.antena.002
+  - first:
+      4: 400042
+    second: L.antena.003
+  - first:
+      4: 400044
+    second: L.antena.004
+  - first:
+      4: 400046
+    second: L.antena.005
+  - first:
+      4: 400048
+    second: L.antena.006
+  - first:
+      4: 400050
+    second: L.antena.007
+  - first:
+      4: 400052
+    second: L.antena.008
+  - first:
+      4: 400054
+    second: L.antena.009
+  - first:
+      4: 400056
+    second: L.antena.010
+  - first:
+      4: 400058
+    second: L.antena.011
+  - first:
+      4: 400060
+    second: L.antena.012
+  - first:
+      4: 400062
+    second: L.antena.013
+  - first:
+      4: 400064
+    second: L.antena.014
+  - first:
+      4: 400066
+    second: L.antena.014_end
+  - first:
+      4: 400068
+    second: L.Base pata 1
+  - first:
+      4: 400070
+    second: Light
+  - first:
+      4: 400072
+    second: pata 1 .L
+  - first:
+      4: 400074
+    second: pata 1 .R
+  - first:
+      4: 400076
+    second: pata 1.001-L
+  - first:
+      4: 400078
+    second: pata 1.001-R
+  - first:
+      4: 400080
+    second: pata 1.002-L
+  - first:
+      4: 400082
+    second: pata 1.002-R
+  - first:
+      4: 400084
+    second: pata 1.003-L
+  - first:
+      4: 400086
+    second: pata 1.003-L_end
+  - first:
+      4: 400088
+    second: pata 1.003-R
+  - first:
+      4: 400090
+    second: pata 1.003-R_end
+  - first:
+      4: 400092
+    second: pata 2-L
+  - first:
+      4: 400094
+    second: pata 2-R
+  - first:
+      4: 400096
+    second: pata 2.001-L
+  - first:
+      4: 400098
+    second: pata 2.001-R
+  - first:
+      4: 400100
+    second: pata 2.002-L
+  - first:
+      4: 400102
+    second: pata 2.002-R
+  - first:
+      4: 400104
+    second: pata 2.003-L
+  - first:
+      4: 400106
+    second: pata 2.003-L_end
+  - first:
+      4: 400108
+    second: pata 2.003-R
+  - first:
+      4: 400110
+    second: pata 2.003-R_end
+  - first:
+      4: 400112
+    second: pata 3.001.L
+  - first:
+      4: 400114
+    second: pata 3.001.R
+  - first:
+      4: 400116
+    second: pata 3.002.L
+  - first:
+      4: 400118
+    second: pata 3.002.R
+  - first:
+      4: 400120
+    second: pata 3.003.L
+  - first:
+      4: 400122
+    second: pata 3.003.L_end
+  - first:
+      4: 400124
+    second: pata 3.003.R
+  - first:
+      4: 400126
+    second: pata 3.003.R_end
+  - first:
+      4: 400128
+    second: pata 3.L
+  - first:
+      4: 400130
+    second: pata 3.R
+  - first:
+      4: 400132
+    second: 'R. base antenna '
+  - first:
+      4: 400134
+    second: R.antena
+  - first:
+      4: 400136
+    second: R.antena.001
+  - first:
+      4: 400138
+    second: R.antena.002
+  - first:
+      4: 400140
+    second: R.antena.003
+  - first:
+      4: 400142
+    second: R.antena.004
+  - first:
+      4: 400144
+    second: R.antena.005
+  - first:
+      4: 400146
+    second: R.antena.006
+  - first:
+      4: 400148
+    second: R.antena.007
+  - first:
+      4: 400150
+    second: R.antena.008
+  - first:
+      4: 400152
+    second: R.antena.009
+  - first:
+      4: 400154
+    second: R.antena.010
+  - first:
+      4: 400156
+    second: R.antena.011
+  - first:
+      4: 400158
+    second: R.antena.012
+  - first:
+      4: 400160
+    second: R.antena.013
+  - first:
+      4: 400162
+    second: R.antena.014
+  - first:
+      4: 400164
+    second: R.antena.014_end
+  - first:
+      4: 400166
+    second: R.Base pata 1
+  - first:
+      21: 2100000
+    second: Material
+  - first:
+      43: 4300000
+    second: Cube
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Cube
+  - first:
+      74: -623603649343465320
+    second: Scene
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

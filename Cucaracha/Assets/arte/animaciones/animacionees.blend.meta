@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 76be17f961317814dabe86910d82e379
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: base pata 2-L
+    100006: base pata 2-R
+    100008: base pata 3.L
+    100010: base pata 3.R
+    100012: Bone
+    100014: Bone.002
+    100016: Bone.003
+    100018: Bone.003_end
+    100020: Bone.004
+    100022: Bone.005
+    100024: Camera
+    100026: 'case Cucaracha '
+    100028: Cube
+    100030: cxabeza
+    100032: cxabeza_end
+    100034: 'L. base antenna '
+    100036: L.antena
+    100038: L.antena.001
+    100040: L.antena.002
+    100042: L.antena.003
+    100044: L.antena.004
+    100046: L.antena.005
+    100048: L.antena.006
+    100050: L.antena.007
+    100052: L.antena.008
+    100054: L.antena.009
+    100056: L.antena.010
+    100058: L.antena.011
+    100060: L.antena.012
+    100062: L.antena.013
+    100064: L.antena.014
+    100066: L.antena.014_end
+    100068: L.Base pata 1
+    100070: Light
+    100072: pata 1 .L
+    100074: pata 1 .R
+    100076: pata 1.001-L
+    100078: pata 1.001-R
+    100080: pata 1.002-L
+    100082: pata 1.002-R
+    100084: pata 1.003-L
+    100086: pata 1.003-L_end
+    100088: pata 1.003-R
+    100090: pata 1.003-R_end
+    100092: pata 2-L
+    100094: pata 2-R
+    100096: pata 2.001-L
+    100098: pata 2.001-R
+    100100: pata 2.002-L
+    100102: pata 2.002-R
+    100104: pata 2.003-L
+    100106: pata 2.003-L_end
+    100108: pata 2.003-R
+    100110: pata 2.003-R_end
+    100112: pata 3.001.L
+    100114: pata 3.001.R
+    100116: pata 3.002.L
+    100118: pata 3.002.R
+    100120: pata 3.003.L
+    100122: pata 3.003.L_end
+    100124: pata 3.003.R
+    100126: pata 3.003.R_end
+    100128: pata 3.L
+    100130: pata 3.R
+    100132: 'R. base antenna '
+    100134: R.antena
+    100136: R.antena.001
+    100138: R.antena.002
+    100140: R.antena.003
+    100142: R.antena.004
+    100144: R.antena.005
+    100146: R.antena.006
+    100148: R.antena.007
+    100150: R.antena.008
+    100152: R.antena.009
+    100154: R.antena.010
+    100156: R.antena.011
+    100158: R.antena.012
+    100160: R.antena.013
+    100162: R.antena.014
+    100164: R.antena.014_end
+    100166: R.Base pata 1
+    400000: //RootNode
+    400002: Armature
+    400004: base pata 2-L
+    400006: base pata 2-R
+    400008: base pata 3.L
+    400010: base pata 3.R
+    400012: Bone
+    400014: Bone.002
+    400016: Bone.003
+    400018: Bone.003_end
+    400020: Bone.004
+    400022: Bone.005
+    400024: Camera
+    400026: 'case Cucaracha '
+    400028: Cube
+    400030: cxabeza
+    400032: cxabeza_end
+    400034: 'L. base antenna '
+    400036: L.antena
+    400038: L.antena.001
+    400040: L.antena.002
+    400042: L.antena.003
+    400044: L.antena.004
+    400046: L.antena.005
+    400048: L.antena.006
+    400050: L.antena.007
+    400052: L.antena.008
+    400054: L.antena.009
+    400056: L.antena.010
+    400058: L.antena.011
+    400060: L.antena.012
+    400062: L.antena.013
+    400064: L.antena.014
+    400066: L.antena.014_end
+    400068: L.Base pata 1
+    400070: Light
+    400072: pata 1 .L
+    400074: pata 1 .R
+    400076: pata 1.001-L
+    400078: pata 1.001-R
+    400080: pata 1.002-L
+    400082: pata 1.002-R
+    400084: pata 1.003-L
+    400086: pata 1.003-L_end
+    400088: pata 1.003-R
+    400090: pata 1.003-R_end
+    400092: pata 2-L
+    400094: pata 2-R
+    400096: pata 2.001-L
+    400098: pata 2.001-R
+    400100: pata 2.002-L
+    400102: pata 2.002-R
+    400104: pata 2.003-L
+    400106: pata 2.003-L_end
+    400108: pata 2.003-R
+    400110: pata 2.003-R_end
+    400112: pata 3.001.L
+    400114: pata 3.001.R
+    400116: pata 3.002.L
+    400118: pata 3.002.R
+    400120: pata 3.003.L
+    400122: pata 3.003.L_end
+    400124: pata 3.003.R
+    400126: pata 3.003.R_end
+    400128: pata 3.L
+    400130: pata 3.R
+    400132: 'R. base antenna '
+    400134: R.antena
+    400136: R.antena.001
+    400138: R.antena.002
+    400140: R.antena.003
+    400142: R.antena.004
+    400144: R.antena.005
+    400146: R.antena.006
+    400148: R.antena.007
+    400150: R.antena.008
+    400152: R.antena.009
+    400154: R.antena.010
+    400156: R.antena.011
+    400158: R.antena.012
+    400160: R.antena.013
+    400162: R.antena.014
+    400164: R.antena.014_end
+    400166: R.Base pata 1
+    2000000: Camera
+    2100000: Material
+    4300000: Cube
+    7400000: Idle
+    7400002: Walk
+    9500000: //RootNode
+    10800000: Light
+    13700000: Cube
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Scene
+      firstFrame: 82
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Walk
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
